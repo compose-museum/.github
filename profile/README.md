@@ -1,4 +1,6 @@
-## 👋 Hi there, this is Milklab. We are working on something about Jetpack Compose
+## 👋 Hi there. Welcome to the Milklab organization
+
+We're doing some stuff with Jetpack Compose.
 
 Here's what we're making：
 
