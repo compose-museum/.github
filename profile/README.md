@@ -1,8 +1,8 @@
-## 👋 Hi there. Welcome to the Milklab organization
+## 👋 Hi there. Welcome to the Jetpack Compose Museum
 
 We're doing some stuff with Jetpack Compose.
 
 Here's what we're making：
 
-* [jetpack compose book](https://github.com/milklabdev/jetpack-compose-book)
-* [compose code helper](https://github.com/milklabdev/compose-code-helper)
+* [jetpack compose book](https://github.com/compose-museum/jetpack-compose-book)
+* [compose code helper](https://github.com/compose-museum/compose-code-helper)
